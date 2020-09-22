@@ -1,0 +1,19 @@
+{
+  "name": "tfjs-wechat-demo",
+  "version": "1.0.0",
+  "description": "Demo of running tensorflow.js in wechat miniprogram",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HunterXuan",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow-models/body-pix": "^2.0.4",
+    "@tensorflow-models/coco-ssd": "^2.0.1",
+    "@tensorflow-models/posenet": "2.2.1",
+    "@tensorflow/tfjs-converter": "1.4.0",
+    "@tensorflow/tfjs-core": "1.4.0",
+    "fetch-wechat": "0.0.3"
+  }
+}

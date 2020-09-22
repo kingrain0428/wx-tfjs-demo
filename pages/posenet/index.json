@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "人体动作捕捉",
+  "usingComponents": {
+    "wux-cell-group": "../../wux-weapp/cell-group/index",
+    "wux-cell": "../../wux-weapp/cell/index"
+  }
+}
