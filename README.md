@@ -1,3 +1,5 @@
+# 转载声明！！文章保留了原创作者信息文案，有需要请直接联系。
+
 # wx-tfjs-demo
 微信小程序运行 TensorFlow 的 Demo，代码与小程序「AI Pocket」同步更新。
 
